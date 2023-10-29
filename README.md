@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####Actualmente estudiando backend n CoderHouse y algunos cursos apartes para mejorar mi entendimiento de las cosas
-####Amante del deporte, gimnasio y de levantar objetos de 360° pesados 😎  
+###Actualmente estudiando backend n CoderHouse y algunos cursos apartes para mejorar mi entendimiento de las cosas </br>
+###Amante del deporte, gimnasio y de levantar objetos de 360° pesados 😎  
