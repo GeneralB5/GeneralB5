@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Marco Bonfiglio</h1>
-<h3 align="center">Apasionado programador web</h3>
-<img align="right alt="Programando" width+"400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16787618-Typing-guy-animation-2d-character-animation-Gif-animation&psig=AOvVaw2V_X-KPzCU17ZBbYS4AM-p&ust=1710437618991000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiN-uji8YQDFQAAAAAdAAAAABAE">
+<h3 align="center">Apasionado programador Full-stack</h3>
+<img align="right alt="Programando" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16787618-Typing-guy-animation-2d-character-animation-Gif-animation&psig=AOvVaw2V_X-KPzCU17ZBbYS4AM-p&ust=1710437618991000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiN-uji8YQDFQAAAAAdAAAAABAE">
 
 
 - 🌱 I’m currently learning **Express JS**
