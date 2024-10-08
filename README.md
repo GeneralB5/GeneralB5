@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net**
 
-- 💬 Ask me about **ReactJS, MERN, .NEt**
+- 💬 Ask me about **ReactJS, MERN, .Net**
 
 - 📫 How to reach me **ianmarcobonfiglio@gmail.com**
 
