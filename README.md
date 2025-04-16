@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Marco Bonfiglio</h1>
 <h3 align="center">Apasionado programador Full-stack</h3>
-<video align="right" autoplay loop muted playsinline width:"400">
-  <source src="https://media.istockphoto.com/id/1872218613/video/businessman-character-work-at-computer-2d-animation-financial-graphs-and-charts-business.mp4?s=mp4-640x640-is&k=20&c=IHjyVhtE9xIIKbxT7mRHDFMeahp-R14YQkLJ4qePy3k=" type="video/mp4">
-  Tu navegador no soporta video HTML5.
-</video>
+<img align="right" src="https://img.freepik.com/vector-gratis/aprendizaje-lenguajes-programacion-cursos-codificacion-software-clase-desarrollo-sitios-web-escritura-guiones-personajes-dibujos-animados-programadores-ti_335657-3454.jpg?t=st=1744825700~exp=1744829300~hmac=eb6a198739688e2e963015a1fd7a30857a8b918502625b8b8543ac9b6e1e0dd5&w=740">
 
 - 🌱 I’m currently learning **.Net**
 
