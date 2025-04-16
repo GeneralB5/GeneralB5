@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Marco Bonfiglio</h1>
 <h3 align="center">Apasionado programador Full-stack</h3>
-<video align="right" autoplay loop muted playsinline style="pointer-events: none; width: 100%; max-width: 400px;">
+<video align="right" autoplay loop muted playsinline width:"400">
   <source src="https://media.istockphoto.com/id/1872218613/video/businessman-character-work-at-computer-2d-animation-financial-graphs-and-charts-business.mp4?s=mp4-640x640-is&k=20&c=IHjyVhtE9xIIKbxT7mRHDFMeahp-R14YQkLJ4qePy3k=" type="video/mp4">
   Tu navegador no soporta video HTML5.
 </video>
