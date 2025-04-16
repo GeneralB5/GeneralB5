@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Marco Bonfiglio</h1>
 <h3 align="center">Apasionado programador Full-stack</h3>
-<img align="right" width0="400" height="400" src="https://img.freepik.com/vector-gratis/aprendizaje-lenguajes-programacion-cursos-codificacion-software-clase-desarrollo-sitios-web-escritura-guiones-personajes-dibujos-animados-programadores-ti_335657-3454.jpg?t=st=1744825700~exp=1744829300~hmac=eb6a198739688e2e963015a1fd7a30857a8b918502625b8b8543ac9b6e1e0dd5&w=740">
+<img align="right" width0="400" height="400" style="border-radius:10" src="https://img.freepik.com/vector-gratis/aprendizaje-lenguajes-programacion-cursos-codificacion-software-clase-desarrollo-sitios-web-escritura-guiones-personajes-dibujos-animados-programadores-ti_335657-3454.jpg?t=st=1744825700~exp=1744829300~hmac=eb6a198739688e2e963015a1fd7a30857a8b918502625b8b8543ac9b6e1e0dd5&w=740">
 
 - 🌱 I’m currently learning **.Net**
 
